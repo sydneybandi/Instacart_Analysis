@@ -5,18 +5,18 @@
 
 Here are the different notebooks:
 
-..*[Data Exploration](https://github.com/sydneybandi/Instacart_Analysis/blob/main/Data-Exploration.ipynb): Exploring the raw datasets.
-..*[Customer Segmentation](https://github.com/sydneybandi/Instacart_Analysis/blob/main/Customer-Segmentation.ipynb): Segmenting the customers with Principal Component Analysis and K-Means Clustering.
+*[Data Exploration](https://github.com/sydneybandi/Instacart_Analysis/blob/main/Data-Exploration.ipynb): Exploring the raw datasets.
+*[Customer Segmentation](https://github.com/sydneybandi/Instacart_Analysis/blob/main/Customer-Segmentation.ipynb): Segmenting the customers with Principal Component Analysis and K-Means Clustering.
 
 # Requirements
 
-..*Python 3.6
-..*Jupyter Notebook
+*Python 3.6
+*Jupyter Notebook
 
 # Dependencies
 
-..*pandas
-..*numpy
-..*scipy
-..*matplotlib
-..*sklearn
+*pandas
+*numpy
+*scipy
+*matplotlib
+*sklearn
